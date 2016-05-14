@@ -7,7 +7,7 @@ module.exports = function (ROOT_PATH) {
       hostname: 'localhost',
     },
     database: {
-      url: 'mongodb://localhost/express4_bootstrap_starter'
+      url: 'mongodb://DevloUserMongoLabDB:4PNnj6qUZ_QySmcYKQ1YW.q_NLLTZwQzncq0_WcYJFc-@ds028679.mlab.com:28679/DevloUserMongoLabDB'
     },
     BaseApiURL : 'http://localhost:3001/api/',
     root     : ROOT_PATH,
